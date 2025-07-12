@@ -9,12 +9,15 @@ This project is aimed at practicing front-end development and improving layout a
 - CSS3
 
 ## 📂 Folder Structure
+
+```plaintext
 Spotify-Clone/
 │
-├── assets/ # Images, icons, and other media files
-├── index.html # Main HTML file
-├── style.css # All styling is handled here
-└── README.md # You're reading it!
+├── assets/         # Images, icons, and other media files
+├── index.html      # Main HTML file
+├── style.css       # All styling is handled here
+└── README.md       # You're reading it!
+
 
 ## 💡 Features
 
